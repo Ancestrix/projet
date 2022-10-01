@@ -7,6 +7,7 @@ public class projet_momotata {
 		carre c= new carre(5);
 		
 		System.out.println(c.getLongueur());
+		System.out.println("test");
 		
 	}
 
